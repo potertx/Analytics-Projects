@@ -5,4 +5,4 @@
 #### IDE:Jupyter Notebook
 ## Проекты:
 
-Анализ пользовательского поведения в мобильном приложении https://github.com/potertx/Analytics-Projects/tree/main/Project_1
+[Анализ пользовательского поведения в мобильном приложении] (https://github.com/potertx/Analytics-Projects/tree/main/Project_1)
